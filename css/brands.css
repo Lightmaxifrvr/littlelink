@@ -1067,13 +1067,3 @@ button:hover,
 .button.button-yt:focus {
   filter: brightness(90%);
 }
-
-/* Zoom */
-.button.button-zoom {
-  color: #ffffff;
-  background-color: #0B5CFF;
-}
-.button.button-zoom:hover,
-.button.button-zoom:focus {
-  filter: brightness(90%);
-}
